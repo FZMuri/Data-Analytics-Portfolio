@@ -18,3 +18,6 @@ Within 2 weeks, my team and I were required to gather relevant datasets and pres
 5. Create data warehouse in SSMS
 6. Create data visualizations in PowerBI
 
+## Files:
+ - Datasource Docket : Datasets gathered from various sources
+ - Pratian Data Analytics Report Slides : Powerpoint presentation of our findings and data visualizations
