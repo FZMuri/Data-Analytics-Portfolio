@@ -1,1 +1,1 @@
-Mini projects done using Apache Spark.
+Mini machine learning projects done using Apache Spark.
